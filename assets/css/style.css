@@ -1,0 +1,39 @@
+.home-slider img{
+    height: 90vh!important;
+}
+.home-slider .carousel-caption{
+    background: skyblue;
+    padding-top: 42px!important;
+    padding-bottom: 42px!important;
+}
+.home-slider .carousel-caption h5{
+    font-size: 32px;
+    letter-spacing: 4px;
+    color: crimson;
+}
+.program img{
+    height: 200px;
+}
+.program .card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.joshua{
+    background-color: #28587B;
+    width: 70%;
+    margin: 0 auto;
+}
+h1.title{
+    text-transform: uppercase;
+    color: #62B6CB;
+    text-align: left;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 15px;
+}
+h1.title:hover{
+    text-decoration: overline;
+    color: azure;
+    font-weight: 800;
+    transition: .5s ease-in-out;
+}
