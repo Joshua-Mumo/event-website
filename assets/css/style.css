@@ -37,3 +37,7 @@ h1.title:hover{
     font-weight: 800;
     transition: .5s ease-in-out;
 }
+.row img{
+    height: 50vh!important;
+    width: auto; 
+}
